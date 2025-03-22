@@ -18,6 +18,8 @@ rpi_ipa_cam_helper_sources = files([
     'cam_helper_vd55g1.cpp',
     'cam_helper_vd56g3.cpp',
     'md_parser_smia.cpp',
+    'cam_helper_anycam0.cpp',
+    'cam_helper_anycam1.cpp',
 ])
 
 rpi_ipa_cam_helper_includes = [
